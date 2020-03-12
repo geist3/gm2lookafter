@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "ca0ece68-b872-4550-8a27-11a70bdd7097",
+            "Value": {
+                "id": "455bc4d3-edac-487e-824a-a6f9e07f88fc",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "20f78a17-aed1-4eef-9ab7-76eb50aabc63",
